@@ -21,7 +21,9 @@ the index.html created in this video can be viewed in the repo
 ## Questions 
 
 If you have any questions, contact me
+
 Email: ryanmmassenburg@gmail.com 
+
 Github: https://www.github.com/chulleyboy
 
 ## License
