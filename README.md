@@ -12,8 +12,8 @@ navigate to the application in your command line and type node.js then follow th
 
 ## Walkthrough Video
 
-Part 1: https://drive.google.com/file/d/1gj6qK82xe81jxAuKzA8PKpNCuihSb68U/view \n
-Part 2: https://drive.google.com/file/d/17c1FlQ8rAFinMHEJlBFMXfGRKWOtZCe-/view \n
+Part 1: https://drive.google.com/file/d/1gj6qK82xe81jxAuKzA8PKpNCuihSb68U/view /n
+Part 2: https://drive.google.com/file/d/17c1FlQ8rAFinMHEJlBFMXfGRKWOtZCe-/view
 the index.html created in this video can be viewed in the repo
 
 ## Questions 
